@@ -386,3 +386,4 @@ C:\Users\sayan\source\repos\BookListRazor\BookListRazor\obj\Debug\net5.0\ref\Boo
 C:\Users\sayan\source\repos\BookListRazor\BookListRazor\obj\Debug\net5.0\BookListRazor.pdb
 C:\Users\sayan\source\repos\BookListRazor\BookListRazor\obj\Debug\net5.0\BookListRazor.genruntimeconfig.cache
 C:\Users\sayan\source\repos\BookListRazor\BookListRazor\obj\Debug\net5.0\Razor\Pages\BookList\Index.cshtml.g.cs
+C:\Users\sayan\source\repos\BookListRazor\BookListRazor\obj\Debug\net5.0\Razor\Pages\BookList\Create.cshtml.g.cs
